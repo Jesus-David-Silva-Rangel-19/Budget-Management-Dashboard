@@ -52,3 +52,8 @@ Este dashboard es ideal para:
 ---
 
 *Desarrollado por Jesús David Rangel. Si tienes dudas o sugerencias, no dudes en contactarme.*
+
+[![Star](https://img.shields.io/github/stars/tu_usuario/tu_repositorio?style=social)](https://github.com/Jesus-David-Silva-Rangel-19)
+[![Fork](https://img.shields.io/github/forks/tu_usuario/tu_repositorio?style=social)](https://github.com/Jesus-David-Silva-Rangel-19)
+[![Issues](https://img.shields.io/github/issues/tu_usuario/tu_repositorio)](https://github.com/Jesus-David-Silva-Rangel-19)
+[![MIT License](https://img.shields.io/github/license/tu_usuario/tu_repositorio)](LICENSE)
